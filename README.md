@@ -78,3 +78,10 @@
 <img height="170" src="https://helio-github-stats.vercel.app/api/top-langs?username=warlleyz&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+---
+
+## ⏱️ Tempo de Programação
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
