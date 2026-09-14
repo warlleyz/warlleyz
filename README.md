@@ -41,3 +41,29 @@
 <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
 </div>
+
+---
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/warlleyz/API-Clima">
+  <img height="140" src="https://helio-github-stats.vercel.app/api/pin/?username=warlleyz&repo=API-Clima&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/warlleyz/Login-PUC">
+  <img height="140" src="https://helio-github-stats.vercel.app/api/pin/?username=warlleyz&repo=Login-PUC&theme=github_dark&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/warlleyz/Carrinho-Compras-POO">
+  <img height="140" src="https://helio-github-stats.vercel.app/api/pin/?username=warlleyz&repo=Carrinho-Compras-POO&theme=github_dark&hide_border=true"/>
+</a>
+
+<a href="https://github.com/warlleyz/SnakePy">
+  <img height="140" src="https://helio-github-stats.vercel.app/api/pin/?username=warlleyz&repo=SnakePy&theme=github_dark&hide_border=true"/>
+</a>
+
+</div>
