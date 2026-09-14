@@ -83,5 +83,8 @@
 
 ## ⏱️ Tempo de Programação
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
+
+<img height="170" src="https://helio-github-stats.vercel.app/api/wakatime?username=0e884e2e-00dc-4836-8f8c-f99c10ff79e6&theme=github_dark&hide_border=true"/>
+
+</div>
