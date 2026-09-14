@@ -88,3 +88,26 @@
 <img height="170" src="https://helio-github-stats.vercel.app/api/wakatime?username=0e884e2e-00dc-4836-8f8c-f99c10ff79e6&theme=github_dark&hide_border=true"/>
 
 </div>
+
+---
+
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/warlleyz/warlleyz/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/warlleyz/warlleyz/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/warlleyz/warlleyz/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
